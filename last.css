@@ -1,0 +1,43 @@
+body {
+    font-family: Georgia, serif;
+    font-size: 18px;
+  }
+  .container {
+    margin-top: 50px;
+  }
+  
+  img {
+    margin-bottom: 10px;
+    border-radius: 10%;
+    width: 150px
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  .connect {
+    margin-top: 30px;
+  }
+  
+  .connect h3 {
+    margin-bottom: 20px;
+  }
+  
+  header {
+    margin-bottom: 40px;
+  }
+  
+  body
+   {
+    background-image: url('https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?w=996&t=st=1677989971~exp=1677990571~hmac=261ad0ff95b12fab83c96d998f845ab3894e9a559e2288dd2724e447602ad40f');
+    background-size: cover;
+  } 
